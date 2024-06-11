@@ -6,6 +6,7 @@ format:
         body-width: 1200px
         sidebar-width: 200px
         margin-width: 200px
+lang: es        
 ---
 
 Red Hidrométrica del Sistema Integral Lagunillas.

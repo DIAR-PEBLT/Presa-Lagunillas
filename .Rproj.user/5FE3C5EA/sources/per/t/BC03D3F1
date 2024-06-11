@@ -3,7 +3,7 @@
     "path": "~/GitHub/Presa-Lagunillas/Historico.qmd",
     "project_path": "Historico.qmd",
     "type": "quarto_markdown",
-    "hash": "4098218411",
+    "hash": "3219450581",
     "contents": "",
     "dirty": false,
     "created": 1718060327704.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "51:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1718055116,
+    "lastKnownWriteTime": 1718137459,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1718055116,
+    "last_content_update": 1718137459737,
     "read_only": false,
     "read_only_alternatives": []
 }

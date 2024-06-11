@@ -25,7 +25,7 @@ website:
         
   page-footer:
     background: light
-    center: "© Sistema Integral Lagunillas - PEBLT - 2023"
+    center: "© Sistema Integral Lagunillas - PEBLT - 2024"
 format:
   html:
     theme: cosmo

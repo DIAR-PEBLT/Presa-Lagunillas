@@ -3,7 +3,7 @@
     "path": "~/GitHub/Presa-Lagunillas/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1166521479",
+    "hash": "2996178249",
     "contents": "",
     "dirty": false,
     "created": 1718060280549.0,
@@ -11,14 +11,16 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "27,57",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1718058296,
+    "lastKnownWriteTime": 1718137041,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1718058296,
+    "last_content_update": 1718137041487,
     "read_only": false,
     "read_only_alternatives": []
 }
