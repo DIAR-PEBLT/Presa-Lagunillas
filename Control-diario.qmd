@@ -1,6 +1,11 @@
 ---
 title: "Control Diario - Presa Lagunillas"
+lang: es
 ---
+
+En el siguiente Dashboard se muestran los datos tomados en la Presa Lagunillas a una escala de tiempo diaria y en un rango de tiempo anual, por lo tanto se muestran dichos datos desde enero a diciembre del año 2024.
+
+Los datos de cota de embalse son tomados diariamente y a partir de ello se calculan los valores de Volumen actual del embalse.
 
 ```{=html}
 
