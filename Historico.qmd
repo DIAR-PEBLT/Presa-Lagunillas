@@ -16,7 +16,7 @@ Puede seleccionar un periodo de análisis de interés haciendo click en la secci
 ### 
 
 ```{=html}
-<iframe width="1100" height="2050" src="https://lookerstudio.google.com/embed/reporting/c64ba047-65bd-4602-87de-cc6ec32da139/page/voRVC" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+<iframe width="1200" height="2250" src="https://lookerstudio.google.com/embed/reporting/c64ba047-65bd-4602-87de-cc6ec32da139/page/voRVC" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 ```
 ### **Importante**
 

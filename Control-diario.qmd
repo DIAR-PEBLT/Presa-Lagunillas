@@ -17,7 +17,7 @@ Los datos de descarga de la compuerta son datos de operación de la compuerta, d
 
 ```{=html}
 
-<iframe width="900" height="1900" src="https://datastudio.google.com/embed/reporting/8e6dacb4-1d84-454d-8e88-91b41fcad71a/page/qX5SC" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+<iframe width="1200" height="2500" src="https://datastudio.google.com/embed/reporting/8e6dacb4-1d84-454d-8e88-91b41fcad71a/page/qX5SC" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 ```
 ### **Importante**
 
