@@ -1,0 +1,14 @@
+---
+title: "Proyectos de Inversión Realizados por el PEBLT"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+lang: es
+---
+
+```{=html}
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/Proyectos/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+```

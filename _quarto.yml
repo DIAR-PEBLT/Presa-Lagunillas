@@ -20,6 +20,8 @@ website:
         menu:
           - text: Red Hidrométrica
             href: Red-hidrometrica.qmd
+          - text: Proyectos PEBLT
+            href: Proyectos.qmd
       - text: Clima
         href: Clima.qmd
         
