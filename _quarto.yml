@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Sistema Integral Lagunillas"
+  search: true
   favicon: ./img/logo.ico
   reader-mode: true
   navbar:
@@ -16,12 +17,16 @@ website:
             href: Control-diario.qmd
           - text: Datos Históricos
             href: Historico.qmd
-      - text: Portal Geográfico
+      - text: Monitoreo Hidrométrico
         menu:
+          - text: Data Histórica
+            href: RH-Historica.qmd
           - text: Red Hidrométrica
             href: Red-hidrometrica.qmd
-          - text: Proyectos PEBLT
-            href: Proyectos.qmd
+          
+            
+      - text: Proyectos PEBLT
+        href: Proyectos.qmd
       - text: Clima
         href: Clima.qmd
         
