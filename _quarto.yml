@@ -23,12 +23,18 @@ website:
             href: RH-Historica.qmd
           - text: Red Hidrométrica
             href: Red-hidrometrica.qmd
-          
-            
+        
       - text: Proyectos PEBLT
         href: Proyectos.qmd
+        
+      - text: Intercambio de Datos
+        menu: 
+          - text: Data Espacial
+            href: Informacion_Espacial.qmd
+            
       - text: Clima
         href: Clima.qmd
+      
         
   page-footer:
     background: light
