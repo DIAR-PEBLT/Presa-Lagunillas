@@ -11,16 +11,20 @@ lang: es
 
 ## Batimetria del Embalse Lagunillas
 
-```{=html}
-<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-```
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
 ## Faja Marginal - Embalse Lagunillas
 
-```{=html}
-<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_FM/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-```
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_FM/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
 ## Obras de Arte Canal de Derivación Cabana - Mañazo
 
-```{=html}
-<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_OArt/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-```
+<iframe width="1200" height="800" src="https://diar-peblt.github.io/informacionlibre_OArt/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
+## 

@@ -16,12 +16,13 @@ Los datos presentados en este Dashboard abarca una serie de tiempo que abarca de
 ::: panel-tabset
 ## Red de Captación
 
-```{=html}
-<iframe width="1170" height="1900" src="https://lookerstudio.google.com/embed/reporting/11fcc77c-f2ef-4604-9a60-8b92fab0b283/page/qX5SC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-```
+<iframe width="1170" height="1900" src="https://lookerstudio.google.com/embed/reporting/11fcc77c-f2ef-4604-9a60-8b92fab0b283/page/qX5SC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+
+</iframe>
+
 ## Red de Distribución
 
-```{=html}
-<iframe width="1170" height="2100" src="https://lookerstudio.google.com/embed/reporting/b9b36284-07dc-47ee-8ad8-f1bb8a15a4ec/page/qX5SC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
-```
+<iframe width="1170" height="2100" src="https://lookerstudio.google.com/embed/reporting/b9b36284-07dc-47ee-8ad8-f1bb8a15a4ec/page/qX5SC" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+
+</iframe>
 :::

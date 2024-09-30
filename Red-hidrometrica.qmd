@@ -15,9 +15,10 @@ La red Hidrométrica cuenta con 03 estaciones en la Red de Captación ![](https:
 
 Adicionalmente cuenta con estaciones de monitoreo complementarios ![](https://github.com/hugoaluque/Red-Hidrometrica-SIL/blob/main/images/yellow_c_marker.png?raw=true){width="15"} orientados a **complementar** a las estaciones de la red de Captación y Distribución; es preciso señalar que estas estaciones **no son de caracter oficial y tampoco han sido aprovadas por la [ANA](https://www.gob.pe/ana "Autoridad Nacional del Agua")** por lo se deben tomar solamente como informativas de caracter extraoficial.
 
-```{=html}
-<iframe width="1200" height="800" src="https://hugoaluque.github.io/Red-Hidrometrica-SIL/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-```
+<iframe width="1200" height="800" src="https://hugoaluque.github.io/Red-Hidrometrica-SIL/" frameborder="0" style="border:0" allowfullscreen>
+
+</iframe>
+
 +--------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](https://github.com/hugoaluque/Red-Hidrometrica-SIL/blob/main/images/red_c_marker.png?raw=true){width="50"} Estaciones de la Red de Captación | ![](https://github.com/hugoaluque/Red-Hidrometrica-SIL/blob/main/images/blue_c_marker.png?raw=true){width="50"} Estaciones de la Red de Distribución | ![](https://github.com/hugoaluque/Red-Hidrometrica-SIL/blob/main/images/yellow_c_marker.png?raw=true){width="50"} Estaciones Complementarias                 |
 +==================================================================================================================================================+======================================================================================================================================================+==============================================================================================================================================================+
